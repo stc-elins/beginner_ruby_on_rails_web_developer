@@ -54,6 +54,26 @@
 
 ### CSS
 
+#### Курсы
+
+* [Подробнейшие курсы по HTML, CSS и JavaScript](https://htmlacademy.ru/)
+* [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
+* [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
+
+#### Лекции
+* http://codenamecrud.ru/html5-and-css3
+
+#### Видео-уроки
+* https://www.youtube.com/watch?v=NkmZl1Yy94Q
+* https://www.youtube.com/watch?v=RNjnRA0QSug
+* https://www.youtube.com/watch?v=bQK9xQ1GIvU
+* https://www.youtube.com/watch?v=IsZDtOYUWvk
+* https://www.youtube.com/watch?v=_nrQbO3iXgI
+
+#### Статьи
+* "Эволюция CSS":https://habr.com/company/mailru/blog/319956/
+
+
 ### JavaScript
 
 ### GIT
