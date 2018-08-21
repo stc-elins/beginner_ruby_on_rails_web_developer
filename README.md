@@ -42,9 +42,12 @@
 * [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
-** Лекции
-*** http://codenamecrud.ru/html5-and-css3
-** Видео-уроки
+#### Лекции
+
+* [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
+
+#### Видео-уроки
+
 *** https://www.youtube.com/watch?v=8mK5aY5YOCc
 *** https://www.youtube.com/watch?v=gGYV7Gb7LTo
 *** https://www.youtube.com/watch?v=qh0AZRaogzU&list=PLyf8LgkO_8q84nQqB4K4zFSBUJz7JIgti
