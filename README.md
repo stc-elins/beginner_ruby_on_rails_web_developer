@@ -10,20 +10,20 @@
 
 #### Учебники
 
-* (https://proselyte.net/tutorials/http-tutorial/introduction/)
+* [Руководство по HTTP](https://proselyte.net/tutorials/http-tutorial/introduction/)
 * (http://www.sdteam.com/t3730)
 
 ### Бесплатные oкурсы
 
 * https://www.intuit.ru/studies/courses/485/341/lecture/8182
 
-** Статьи
-*** https://habr.com/post/215117/
-*** https://ruseller.com/lessons.php?id=1726&rub=28
-*** https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html
-*** https://www.iguides.ru/main/other/chto_takoe_protokol_http_i_kak_on_rabotaet/
-*** https://ru.wikipedia.org/wiki/HTTP
+### Статьи
 
+* https://habr.com/post/215117/
+* https://ruseller.com/lessons.php?id=1726&rub=28
+* https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html
+* https://www.iguides.ru/main/other/chto_takoe_protokol_http_i_kak_on_rabotaet/
+* https://ru.wikipedia.org/wiki/HTTP
 
 ### REST
 
