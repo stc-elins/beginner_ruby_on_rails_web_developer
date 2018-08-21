@@ -138,14 +138,14 @@
 
 ### Курсы
 
-* https://shultais.education/courses/sql
-* https://imprium.ru/courses/kursy-osnovy-sql-online-besplatno
-* http://www.intuit.ru/studies/courses/5/5/info
-* https://stepik.org/course/551/
+* [Online-курс по основам SQL](https://shultais.education/courses/sql)
+* [Курсы основы SQL онлайн бесплатно](https://imprium.ru/courses/kursy-osnovy-sql-online-besplatno)
+* [Основы SQL](http://www.intuit.ru/studies/courses/5/5/info)
+* [Введение в базы данных](https://stepik.org/course/551/)
 
 #### Статьи
 
-* https://ruseller.com/lessons.php?id=557
+* [SQL для начинающих](https://ruseller.com/lessons.php?id=557)
   
 #### Видео
 
