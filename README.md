@@ -37,10 +37,10 @@
 
 #### Курсы
 
-* [Академия HTML](https://htmlacademy.ru/)
-* (https://webshake.ru/html-training-course)
-* https://fructcode.com/ru/courses/html-and-css/
-* [Нетология](https://netology.ru/programs/html-css-base#/order)
+* [Подробнейшие курсы по HTML, CSS и JavaScript](https://htmlacademy.ru/)
+* [Бесплатный курс HTML для начинающих](https://webshake.ru/html-training-course)
+* [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
+* [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
 ** Лекции
 *** http://codenamecrud.ru/html5-and-css3
