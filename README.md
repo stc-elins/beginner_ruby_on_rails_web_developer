@@ -61,7 +61,8 @@
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
 #### Лекции
-* http://codenamecrud.ru/html5-and-css3
+
+* [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
 #### Видео-уроки
 * https://www.youtube.com/watch?v=NkmZl1Yy94Q
@@ -71,7 +72,7 @@
 * https://www.youtube.com/watch?v=_nrQbO3iXgI
 
 #### Статьи
-* "Эволюция CSS":https://habr.com/company/mailru/blog/319956/
+* [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
 
 
 ### JavaScript
