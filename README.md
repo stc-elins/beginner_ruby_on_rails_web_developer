@@ -27,6 +27,10 @@
 
 ### REST
 
+* https://habr.com/post/38730/
+* https://code.tutsplus.com/ru/tutorials/a-beginners-guide-to-http-and-rest--net-16340
+* [Статья в Wikipedia](https://ru.wikipedia.org/wiki/REST)
+
 ### HTML
 
 ### CSS
