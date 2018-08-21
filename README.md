@@ -13,7 +13,7 @@
 * [Руководство по HTTP](https://proselyte.net/tutorials/http-tutorial/introduction/)
 * [Протокол HTTP](http://www.sdteam.com/t3730)
 
-#### Бесплатные oкурсы
+#### Бесплатные курсы
 
 * [ИНТУИТ](https://www.intuit.ru/studies/courses/485/341/lecture/8182)
 
