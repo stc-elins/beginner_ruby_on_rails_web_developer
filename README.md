@@ -37,7 +37,7 @@
 
 #### Курсы
 
-* [Подробнейшие курсы по HTML, CSS и JavaScript](https://htmlacademy.ru/)
+* [Основы HTML](https://htmlacademy.ru/courses/4/run/1)
 * [Бесплатный курс HTML для начинающих](https://webshake.ru/html-training-course)
 * [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
@@ -56,7 +56,7 @@
 
 #### Курсы
 
-* [Подробнейшие курсы по HTML, CSS и JavaScript](https://htmlacademy.ru/)
+* [Основы CSS](https://htmlacademy.ru/courses/41/run/1)
 * [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
@@ -66,16 +66,19 @@
 
 #### Видео-уроки
 * [Основы CSS](https://www.youtube.com/watch?v=NkmZl1Yy94Q)
+* [Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)
 * [CSS3 для начинающих](https://www.youtube.com/watch?v=bQK9xQ1GIvU)
 * [Уроки по CSS/CSS3](https://www.youtube.com/watch?v=IsZDtOYUWvk)
-* [Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)
 * [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug)
 
 #### Статьи
 * [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
 
-
 ### JavaScript
+
+### Курсы
+
+* [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
 
 ### GIT
 
