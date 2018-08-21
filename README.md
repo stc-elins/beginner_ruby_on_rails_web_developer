@@ -126,6 +126,34 @@
 </details>
 
 ### SQL
+<details><summary>Подробнее</summary>
+
+### Книги
+  
+* [SQL за 10 минут](http://forcoder.ru/web-other/sql-za-10-minut-1253)
+* [SQL. Библия пользователя](http://forcoder.ru/sql/sql-bibliya-polzovatelya-1364)
+* [SQL для простых смертных](http://forcoder.ru/sql/sql-dlya-prostyh-smertnyh-1481)
+* [Изучаем SQL](http://forcoder.ru/sql/izuchaem-sql-1519)
+
+
+### Курсы
+
+* https://shultais.education/courses/sql
+* https://imprium.ru/courses/kursy-osnovy-sql-online-besplatno
+* http://www.intuit.ru/studies/courses/5/5/info
+* https://stepik.org/course/551/
+
+#### Статьи
+
+* https://ruseller.com/lessons.php?id=557
+  
+#### Видео
+
+* https://www.youtube.com/watch?v=P2Eaf9M4gOU
+* https://www.youtube.com/watch?v=yOkj-PbCPQ8&list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf
+* https://tproger.ru/video/sql-introduction/
+* https://proglib.io/p/mysql-queries/
+</details>
 
 ## Веб-программист Ruby on Rails
 
