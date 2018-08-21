@@ -65,11 +65,11 @@
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
 #### Видео-уроки
-* https://www.youtube.com/watch?v=NkmZl1Yy94Q
-* https://www.youtube.com/watch?v=RNjnRA0QSug
-* https://www.youtube.com/watch?v=bQK9xQ1GIvU
-* https://www.youtube.com/watch?v=IsZDtOYUWvk
-* https://www.youtube.com/watch?v=_nrQbO3iXgI
+* [Основы CSS](https://www.youtube.com/watch?v=NkmZl1Yy94Q)
+* [CSS3 для начинающих](https://www.youtube.com/watch?v=bQK9xQ1GIvU)
+* [Уроки по CSS/CSS3](https://www.youtube.com/watch?v=IsZDtOYUWvk)
+* [Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)
+* [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug)
 
 #### Статьи
 * [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
