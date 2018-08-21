@@ -78,7 +78,7 @@
 
 ### Учебники
 
-* https://learn.javascript.ru/
+* [Современный учебник Javascript](https://learn.javascript.ru/)
 
 ### Лекции
 
@@ -90,12 +90,11 @@
 * [Javascript и jQuery](https://fructcode.com/ru/courses/javascript-and-jquery/)
 * [Современный Javascript](https://fructcode.com/ru/courses/modern-javascript/)
 
-
 ####  Видео
 
-* https://www.youtube.com/watch?v=n0sPFaLsNeI
-* https://www.youtube.com/watch?v=xgDtBQ-NxtA
-* https://www.youtube.com/watch?v=H6G63NKRSi8
+* [Основы Javascript](https://www.youtube.com/watch?v=n0sPFaLsNeI)
+* [JavaScript для начинающих](https://www.youtube.com/watch?v=xgDtBQ-NxtA)
+* [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8)
 
 
 
