@@ -50,7 +50,7 @@
 
 * [HTML для начинающих](https://www.youtube.com/watch?v=8mK5aY5YOCc)
 * [HTML5 для начинающих](https://www.youtube.com/watch?v=gGYV7Gb7LTo)
-* [HTML верстка на примере бизнес сайта]https://www.youtube.com/watch?v=qh0AZRaogzU&list=PLyf8LgkO_8q84nQqB4K4zFSBUJz7JIgti)
+* [HTML верстка на примере бизнес сайта](https://www.youtube.com/watch?v=qh0AZRaogzU&list=PLyf8LgkO_8q84nQqB4K4zFSBUJz7JIgti)
 
 ### CSS
 
