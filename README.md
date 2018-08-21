@@ -76,20 +76,42 @@
 
 ### JavaScript
 
-### Курсы
+### Учебники
+
+* https://learn.javascript.ru/
+
+### Лекции
+
+* [Javascript и jQuery](http://codenamecrud.ru/javascript-and-jquery)
+
+#### Курсы
 
 * [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
+* [Javascript и jQuery](https://fructcode.com/ru/courses/javascript-and-jquery/)
+* [Современный Javascript](https://fructcode.com/ru/courses/modern-javascript/)
+
+
+####  Видео
+
+* https://www.youtube.com/watch?v=n0sPFaLsNeI
+* https://www.youtube.com/watch?v=xgDtBQ-NxtA
+* https://www.youtube.com/watch?v=H6G63NKRSi8
+
 
 
 ### GIT
 
+#### Учебники
+
+* [Pro Git](https://git-scm.com/book/ru/v2)
+
 #### Курсы
 
-* https://fructcode.com/ru/courses/linux-and-git/
+* [Курс Linux/GIT](https://fructcode.com/ru/courses/linux-and-git/)
 
 ### Видео
 
-* https://www.youtube.com/watch?v=PEKN8NtBDQ0
+* [Git - для новичков](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
 
 ### SQL
 
