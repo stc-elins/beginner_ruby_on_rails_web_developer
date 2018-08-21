@@ -13,17 +13,17 @@
 * [Руководство по HTTP](https://proselyte.net/tutorials/http-tutorial/introduction/)
 * [Протокол HTTP](http://www.sdteam.com/t3730)
 
-### Бесплатные oкурсы
+#### Бесплатные oкурсы
 
 * [ИНТУИТ](https://www.intuit.ru/studies/courses/485/341/lecture/8182)
 
-### Статьи
+#### Статьи
 
-* https://habr.com/post/215117/
-* https://ruseller.com/lessons.php?id=1726&rub=28
-* https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html
-* https://www.iguides.ru/main/other/chto_takoe_protokol_http_i_kak_on_rabotaet/
-* https://ru.wikipedia.org/wiki/HTTP
+* [Простым языком об HTTP](https://habr.com/post/215117/)
+* [HTTP: протокол, который каждый разработчик должен знать](https://ruseller.com/lessons.php?id=1726&rub=28)
+* [Что нужно знать про HTTP протокол веб-разработчику. Правила HTTP протокола](https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html)
+* [Что такое протокол HTTP и как он работает](https://www.iguides.ru/main/other/chto_takoe_protokol_http_i_kak_on_rabotaet/)
+* [Статья в Wikipedia](https://ru.wikipedia.org/wiki/HTTP)
 
 ### REST
 
