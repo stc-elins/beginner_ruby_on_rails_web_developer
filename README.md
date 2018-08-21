@@ -149,10 +149,10 @@
   
 #### Видео
 
-* https://www.youtube.com/watch?v=P2Eaf9M4gOU
-* https://www.youtube.com/watch?v=yOkj-PbCPQ8&list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf
-* https://tproger.ru/video/sql-introduction/
-* https://proglib.io/p/mysql-queries/
+* [Основы SQL](https://www.youtube.com/watch?v=P2Eaf9M4gOU)
+* [SQL](https://www.youtube.com/watch?v=yOkj-PbCPQ8&list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
+* [Изучение программирования. SQL](https://tproger.ru/video/sql-introduction/)
+* [Видеокурс по работе с MySQL](https://proglib.io/p/mysql-queries/)
 </details>
 
 ## Веб-программист Ruby on Rails
