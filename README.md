@@ -30,6 +30,8 @@
 
 ### REST
 
+<details><summary>Подробнее</summary>
+  
 #### Статьи
 
 * [Архитектура REST](https://habr.com/post/38730/)
@@ -54,9 +56,12 @@
 * [HTML для начинающих](https://www.youtube.com/watch?v=8mK5aY5YOCc)
 * [HTML5 для начинающих](https://www.youtube.com/watch?v=gGYV7Gb7LTo)
 * [HTML верстка на примере бизнес сайта](https://www.youtube.com/watch?v=qh0AZRaogzU&list=PLyf8LgkO_8q84nQqB4K4zFSBUJz7JIgti)
+</details>
 
 ### CSS
 
+<details><summary>Подробнее</summary>
+  
 #### Курсы
 
 * [Основы CSS](https://htmlacademy.ru/courses/41/run/1)
@@ -76,8 +81,11 @@
 
 #### Статьи
 * [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
+</details>
 
 ### JavaScript
+
+<details><summary>Подробнее</summary>
 
 ### Учебники
 
@@ -98,11 +106,12 @@
 * [Основы Javascript](https://www.youtube.com/watch?v=n0sPFaLsNeI)
 * [JavaScript для начинающих](https://www.youtube.com/watch?v=xgDtBQ-NxtA)
 * [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8)
-
-
+</details>
 
 ### GIT
 
+<details><summary>Подробнее</summary>
+  
 #### Учебники
 
 * [Pro Git](https://git-scm.com/book/ru/v2)
@@ -114,6 +123,7 @@
 ### Видео
 
 * [Git - для новичков](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
+</details>
 
 ### SQL
 
