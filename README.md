@@ -5,8 +5,9 @@
 ## Веб-программист
 
 Этими темами должен владеть любой веб-программист на любом языке программирования.
-
+<details><summary>
 ### HTTP
+</summary>  
 
 #### Учебники
 
@@ -24,6 +25,7 @@
 * [Что нужно знать про HTTP протокол веб-разработчику. Правила HTTP протокола](https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html)
 * [Что такое протокол HTTP и как он работает](https://www.iguides.ru/main/other/chto_takoe_protokol_http_i_kak_on_rabotaet/)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/HTTP)
+</details>
 
 ### REST
 
