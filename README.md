@@ -46,7 +46,7 @@
 
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
-#### Видео-уроки
+#### Видео
 
 * [HTML для начинающих](https://www.youtube.com/watch?v=8mK5aY5YOCc)
 * [HTML5 для начинающих](https://www.youtube.com/watch?v=gGYV7Gb7LTo)
@@ -64,7 +64,7 @@
 
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
-#### Видео-уроки
+#### Видео
 * [Основы CSS](https://www.youtube.com/watch?v=NkmZl1Yy94Q)
 * [Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)
 * [CSS3 для начинающих](https://www.youtube.com/watch?v=bQK9xQ1GIvU)
@@ -80,7 +80,16 @@
 
 * [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
 
+
 ### GIT
+
+#### Курсы
+
+* https://fructcode.com/ru/courses/linux-and-git/
+
+### Видео
+
+* https://www.youtube.com/watch?v=PEKN8NtBDQ0
 
 ### SQL
 
