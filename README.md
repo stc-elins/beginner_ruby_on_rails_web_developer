@@ -240,11 +240,13 @@
 
 ### Rails
 
+<details><summary>Подробнее</summary>
+
 #### Учебники
 
-* http://codenamecrud.ru/ruby-on-rails
-* http://railstutorial.ru/chapters/4_0/beginning
-* http://rusrails.ru/getting-started-with-rails
+* [Ruby on Rails](http://codenamecrud.ru/ruby-on-rails)
+* [Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning)
+* [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
 
 #### Видео
 
@@ -278,6 +280,7 @@
 ### Стиль оформления
 
 * [Rails: руководство по стилю оформления](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
+</details>
 
 ## Веб-программист Ruby on Rails нашей команды
 
