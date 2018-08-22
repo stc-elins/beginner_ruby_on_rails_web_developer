@@ -166,8 +166,6 @@
 
 <details><summary>Подробнее</summary>
 
-#### Статьи  
-
 * [KISS — принцип проектирования, содержащий все остальные принципы проектирования](https://habr.com/post/249639/)
 * [Анемичная модель предметной области — не анти-шаблон, а архитектура по принципам SOLID](https://habr.com/post/346016/)
 * [SOLID: принцип единственности ответственности](https://habr.com/post/328584/)
@@ -288,8 +286,6 @@
 
 <details><summary>Подробнее</summary>
 
-#### Статьи
-
 * [Непрерывная интеграция](https://ru.wikipedia.org/wiki/Непрерывная_интеграция)
 * [Введение в Continuous Integration](https://habr.com/post/82724/)
 * [Continuous Integration для самых маленьки](https://habr.com/post/190412/)
@@ -300,7 +296,10 @@
 
 ### Reviwboard
 
-* [Как мы используем Review Board(]http://www.deepshiftlabs.com/dev_blog/?p=930&lang=ru)
+<details><summary>Подробнее</summary>
+  
+* [Как мы используем Review Board](http://www.deepshiftlabs.com/dev_blog/?p=930&lang=ru)
+</details>
 
 ### Redmine
 
