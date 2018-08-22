@@ -232,13 +232,52 @@
 
 * [Узнаем Ruby](http://forcoder.ru/ruby/izuchaem-ruby-1533)
 * [Путь Ruby](http://forcoder.ru/ruby/put-ruby-1508)
-</details>
 
-### Codestyle Ruby
+#### Стиль оформления кода
+
+* [Руби: руководство по стилю оформления](https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md)
+</details>
 
 ### Rails
 
-### Codestyle Rails
+#### Учебники
+
+* http://codenamecrud.ru/ruby-on-rails
+* http://railstutorial.ru/chapters/4_0/beginning
+* http://rusrails.ru/getting-started-with-rails
+
+#### Видео
+
+* [Канал rubyschool.us](https://www.youtube.com/channel/UC-uWAm_l55kVc0UwpZfv3EQ)
+* [Научись Rails](https://www.youtube.com/watch?v=kv2IJ1NeE00&index=51&list=PL6eOcSrXYcBcCoBn8wahHcBS7AGcZD429)
+* [Как написать блог за 15 минут на Ruby on Rails](https://www.youtube.com/watch?v=ecxezoc0uv0)
+* [Видеоуроки по Ruby on Rails](https://www.youtube.com/playlist?list=PL27JArXACRZ9tkg_0xTwCAT_lWzbf1nv-)
+* [Ruby Way от Хороший Программист](https://www.youtube.com/watch?v=L5Va6hF76uE&list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
+* [Ruby on Rails от LoftBlog](https://www.youtube.com/watch?v=nLawteLcBc8)
+* [Блог на Rails](https://www.youtube.com/watch?v=KzYkETRjYKY)
+* [Хороший программист](https://www.youtube.com/watch?v=L5Va6hF76uE&list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
+* [Научись Rails](https://www.youtube.com/watch?list=PLM-s_ZNvf20UjFJBsLqUt0vszhrDkrPl-&v=kv2IJ1NeE00)
+* https://coursehunters.net/ruby
+
+### Курсы
+
+* http://www.easyrails.ru/
+
+### Форумы
+
+* http://onrails.club/
+
+### Статьи
+
+* https://habr.com/post/138101/
+
+### Книги
+
+* http://forcoder.ru/web-other/ruby-on-rails-dlya-nachinayuschih-izuchaem-razrabotku-veb-prilozheniy-na-osnove-rails-1561
+
+### Стиль оформления
+
+* [Rails: руководство по стилю оформления](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
 
 ## Веб-программист Ruby on Rails нашей команды
 
