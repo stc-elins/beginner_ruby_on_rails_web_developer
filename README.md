@@ -210,7 +210,7 @@
 
 #### Учебники
 
-* http://codenamecrud.ru/ruby-programming
+* [Программирование на Ruby](http://codenamecrud.ru/ruby-programming)
 * [Ruby за 20 минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
 * [Wiki-учебник](https://ru.wikibooks.org/wiki/Ruby)
 
