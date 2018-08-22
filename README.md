@@ -257,19 +257,19 @@
 * [Блог на Rails](https://www.youtube.com/watch?v=KzYkETRjYKY)
 * [Хороший программист](https://www.youtube.com/watch?v=L5Va6hF76uE&list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
 * [Научись Rails](https://www.youtube.com/watch?list=PLM-s_ZNvf20UjFJBsLqUt0vszhrDkrPl-&v=kv2IJ1NeE00)
-* https://coursehunters.net/ruby
+* [Видеокурсы для Ruby разработчиков](https://coursehunters.net/ruby)
 
 ### Курсы
 
-* http://www.easyrails.ru/
+* [Онлайн курс по web разработке на фреймворке Ruby on Rails](http://www.easyrails.ru/)
 
 ### Форумы
 
-* http://onrails.club/
+* [Форум о Ruby on Rails](http://onrails.club/)
 
 ### Статьи
 
-* https://habr.com/post/138101/
+* [Лучший способ изучить Rails](https://habr.com/post/138101/)
 
 ### Книги
 
