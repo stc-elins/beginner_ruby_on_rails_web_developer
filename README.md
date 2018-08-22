@@ -208,6 +208,29 @@
 
 ### Ruby
 
+#### Учебники
+
+* http://codenamecrud.ru/ruby-programming
+* [Ruby за 20 минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
+* [Wiki-учебник](https://ru.wikibooks.org/wiki/Ruby)
+
+#### Видео
+
+* [Научись Ruby](https://www.youtube.com/watch?v=IWZ_71EKbng&feature=youtu.be&list=PL6eOcSrXYcBcCoBn8wahHcBS7AGcZD429)
+* [Канал rubyschool.us](https://www.youtube.com/channel/UC-uWAm_l55kVc0UwpZfv3EQ)
+* [Ruby от CryptoFun](https://www.youtube.com/watch?v=N-s5CGDzj2w&list=PLd-kTafWJCJPF4ByjsATGkB7ALWnA2m2L)
+* [Основы программирования на Ruby](https://www.youtube.com/watch?v=eJ_6O5sQkso&list=PL9XdPIVgBVVnCaktzjY3ArQ7W8rALv2sQ)
+* [Божественный Ruby](https://www.youtube.com/watch?v=mICGqoexnls&list=PL60p2JqdCLmJkpwCDivaizje06kh9VNXB)
+
+#### Курсы
+
+* https://ru.hexlet.io/courses/ruby
+
+#### Книги
+
+* [Узнаем Руби](http://forcoder.ru/ruby/izuchaem-ruby-1533)
+* [Путь Руби](http://forcoder.ru/ruby/put-ruby-1508)
+
 ### Codestyle Ruby
 
 ### Rails
