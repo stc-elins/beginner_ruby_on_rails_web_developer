@@ -286,7 +286,21 @@
 
 ### Continiues Integration
 
+<details><summary>Подробнее</summary>
+
+#### Статьи
+
+* [Непрерывная интеграция](https://ru.wikipedia.org/wiki/Непрерывная_интеграция)
+* [Введение в Continuous Integration](https://habr.com/post/82724/)
+* [Continuous Integration для самых маленьки](https://habr.com/post/190412/)
+* [Начинающему тестировщику — Continuous Integration](https://test-engineer.ru/testing-tools/nachinayushemu-testirovshiku-continuous-integration.html)
+* [Какая разница между Continuous Delivery, Continuous Deployment и Continuous Integration](http://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/)
+* [Разбираемся с Continuous Integration](https://ifmo.su/ci)
+</details>
+
 ### Reviwboard
+
+* [Как мы используем Review Board(]http://www.deepshiftlabs.com/dev_blog/?p=930&lang=ru)
 
 ### Redmine
 
