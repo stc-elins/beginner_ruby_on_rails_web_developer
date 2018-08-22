@@ -6,9 +6,7 @@
 
 Этими темами должен владеть любой веб-программист на любом языке программирования.
 
-### HTTP
-
-<details><summary>Подробнее</summary>  
+<details><summary><h3>HTTP</h3></summary>
 
 #### Учебники
 
@@ -42,6 +40,7 @@
 
 #### Курсы
 
+* [Знакомство с HTML](https://codebra.ru/ru/lessons-html/dating/1/1)
 * [Основы HTML](https://htmlacademy.ru/courses/4/run/1)
 * [Бесплатный курс HTML для начинающих](https://webshake.ru/html-training-course)
 * [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
@@ -64,6 +63,7 @@
   
 #### Курсы
 
+* [Знакомство с CSS](https://codebra.ru/ru/lessons-css/familiarity/1/1)
 * [Основы CSS](https://htmlacademy.ru/courses/41/run/1)
 * [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
@@ -73,6 +73,7 @@
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
 #### Видео
+
 * [Основы CSS](https://www.youtube.com/watch?v=NkmZl1Yy94Q)
 * [Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)
 * [CSS3 для начинающих](https://www.youtube.com/watch?v=bQK9xQ1GIvU)
@@ -97,7 +98,9 @@
 
 #### Курсы
 
+* [Знакомство с Javascript](https://codebra.ru/ru/lessons-javascript/singles/1/1)
 * [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
+* [Знакомство с jQuery](https://codebra.ru/ru/lessons-additionally/jquery/1/1)
 * [Javascript и jQuery](https://fructcode.com/ru/courses/javascript-and-jquery/)
 * [Современный Javascript](https://fructcode.com/ru/courses/modern-javascript/)
 
