@@ -169,22 +169,22 @@
 
 #### Статьи  
 
-* https://habr.com/post/249639/
-* https://habr.com/post/346016/
-* https://habr.com/post/328584/
-* https://habr.com/post/343966/
-* https://habr.com/company/skbkontur/blog/260781/
-* https://habr.com/post/348286/
-* https://habr.com/company/mailru/blog/412699/
-* https://habr.com/post/313796/
-* https://habr.com/post/413707/
-* https://habr.com/post/273843/
-* https://habr.com/post/336496/
-* https://habr.com/company/mailru/blog/414201/
-* https://habr.com/post/169487/
-* https://habr.com/post/347242/
-* https://habr.com/post/316438/
-* https://habr.com/post/316890/
+* [KISS — принцип проектирования, содержащий все остальные принципы проектирования](https://habr.com/post/249639/)
+* [Анемичная модель предметной области — не анти-шаблон, а архитектура по принципам SOLID](https://habr.com/post/346016/)
+* [SOLID: принцип единственности ответственности](https://habr.com/post/328584/)
+* [Принципы SOLID в действии: от Slack до Twilio](https://habr.com/post/343966/)
+* [Почему я не преподаю SOLID и «принцип устранения зависимостей»](https://habr.com/company/skbkontur/blog/260781/)
+* [SOLID](https://habr.com/post/348286/)
+* [Простое объяснение принципов SOLID](https://habr.com/company/mailru/blog/412699/)
+* [Разбираемся с SOLID: Инверсия зависимостей](https://habr.com/post/313796/)
+* [Очень простое объяснение принципов SOLID](https://habr.com/post/413707/)
+* [От STUPID кода к SOLID коду](https://habr.com/post/273843/)
+* [Архитектурная пирамида приложения](https://habr.com/post/336496/)
+* [«Божественный» код (GOD'S code)](https://habr.com/company/mailru/blog/414201/)
+* [Иерархия принципов проектирования, или самые важные слова для инженеров](https://habr.com/post/169487/)
+* [Применяем принцип KISS к самим принципам проектирования](https://habr.com/post/347242/)
+* [Domain-Driven Design: стратегическое проектирование. Часть 1](https://habr.com/post/316438/)
+* [Domain-Driven Design: тактическое проектирование. Часть 2](https://habr.com/post/316890/)
 </details>
 
 ### Шаблоны проектирования
