@@ -309,6 +309,27 @@
 
 ### Redmine
 
+<details><summary>Подробнее</summary>
+
+#### Видео
+
+* [Пример работы с Redmine](https://www.youtube.com/watch?v=k9o_VmsEGgo&list=PLJQM4N7eJEoHOuyivQAamS-F4JSFZQUyj)
+
+#### Практика
+
+* [Скачать Bitnami VM](https://bitnami.com/stack/redmine/virtual-machine)
+* [Потыкать](http://okiseleva.blogspot.com/2017/10/redmine.html)
+
+#### Статьи
+
+* [Redmine](https://ru.wikipedia.org/wiki/Redmine)
+* [Автоматизированное управление проектами на основе Redmine](https://nilksa.ru/avtomatizirovannoe-upravlenie-proektami-na-osnove-redmine/)
+
+#### Книги
+
+* [Руководство пользователя системы Redmine](http://esau.tusur.ru/attachments/972/book_Redmine.pdf)
+</details>
+
 ### Rubymine
 
 # Младший веб-разработчик
