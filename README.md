@@ -163,6 +163,47 @@
 * [Видеокурс по работе с MySQL](https://proglib.io/p/mysql-queries/)
 </details>
 
+### Принципы программирования
+
+<details><summary>Подробнее</summary>
+
+#### Статьи  
+
+* https://habr.com/post/249639/
+* https://habr.com/post/346016/
+* https://habr.com/post/328584/
+* https://habr.com/post/343966/
+* https://habr.com/company/skbkontur/blog/260781/
+* https://habr.com/post/348286/
+* https://habr.com/company/mailru/blog/412699/
+* https://habr.com/post/313796/
+* https://habr.com/post/413707/
+* https://habr.com/post/273843/
+* https://habr.com/post/336496/
+* https://habr.com/company/mailru/blog/414201/
+* https://habr.com/post/169487/
+* https://habr.com/post/347242/
+* https://habr.com/post/316438/
+* https://habr.com/post/316890/
+</details>
+
+### Шаблоны проектирования
+
+<details><summary>Подробнее</summary>
+
+* https://habr.com/post/170597/
+* https://habr.com/post/188046/
+* https://habr.com/post/85095/
+* https://habr.com/post/85137/
+* https://habr.com/post/85166/
+* https://habr.com/post/86255/
+* https://habr.com/post/87110/
+* https://habr.com/post/88393/
+* https://habr.com/post/88722/
+* https://habr.com/post/88722/
+* https://habr.com/post/114455/
+</details>
+
 ## Веб-программист Ruby on Rails
 
 ### Ruby
