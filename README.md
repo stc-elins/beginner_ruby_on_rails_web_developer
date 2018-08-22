@@ -208,6 +208,8 @@
 
 ### Ruby
 
+<details><summary>Подробнее</summary>
+
 #### Учебники
 
 * [Программирование на Ruby](http://codenamecrud.ru/ruby-programming)
@@ -228,8 +230,9 @@
 
 #### Книги
 
-* [Узнаем Руби](http://forcoder.ru/ruby/izuchaem-ruby-1533)
-* [Путь Руби](http://forcoder.ru/ruby/put-ruby-1508)
+* [Узнаем Ruby](http://forcoder.ru/ruby/izuchaem-ruby-1533)
+* [Путь Ruby](http://forcoder.ru/ruby/put-ruby-1508)
+</details>
 
 ### Codestyle Ruby
 
