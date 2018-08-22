@@ -206,6 +206,8 @@
 
 ## Веб-программист Ruby on Rails
 
+Дополнительно нужно знать Ruby и Ruby on Rails. Независимо от того, в какой команде будет работать веб-разработчик.
+
 ### Ruby
 
 <details><summary>Подробнее</summary>
@@ -284,6 +286,8 @@
 
 ## Веб-программист Ruby on Rails нашей команды
 
+Дополнительно нужно знать понятия и системы, которые используются нашей команде.
+
 ### Continiues Integration
 
 <details><summary>Подробнее</summary>
@@ -331,6 +335,15 @@
 </details>
 
 ### Rubymine
+
+#### Видео
+
+* [Хороший программист](https://www.youtube.com/watch?v=cbMqXMo-pNw&list=PL_GGd8SqUl3xLnVP91iJQt9ZiKCUo2s1q)
+* [Фишки](https://www.youtube.com/watch?v=KnyC1s-fnT4)
+
+#### Практика
+
+* [30-дневная лицензия](https://www.jetbrains.com/ruby/download/#section=windows)
 
 # Младший веб-разработчик
 
