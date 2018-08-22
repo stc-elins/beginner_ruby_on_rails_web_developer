@@ -336,6 +336,8 @@
 
 ### Rubymine
 
+<details><summary>Подробнее</summary>
+
 #### Видео
 
 * [Хороший программист](https://www.youtube.com/watch?v=cbMqXMo-pNw&list=PL_GGd8SqUl3xLnVP91iJQt9ZiKCUo2s1q)
@@ -344,6 +346,7 @@
 #### Практика
 
 * [30-дневная лицензия](https://www.jetbrains.com/ruby/download/#section=windows)
+</details>
 
 # Младший веб-разработчик
 
