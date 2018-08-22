@@ -143,7 +143,6 @@
 * [SQL для простых смертных](http://forcoder.ru/sql/sql-dlya-prostyh-smertnyh-1481)
 * [Изучаем SQL](http://forcoder.ru/sql/izuchaem-sql-1519)
 
-
 ### Курсы
 
 * [Online-курс по основам SQL](https://shultais.education/courses/sql)
@@ -191,17 +190,16 @@
 
 <details><summary>Подробнее</summary>
 
-* https://habr.com/post/170597/
-* https://habr.com/post/188046/
-* https://habr.com/post/85095/
-* https://habr.com/post/85137/
-* https://habr.com/post/85166/
-* https://habr.com/post/86255/
-* https://habr.com/post/87110/
-* https://habr.com/post/88393/
-* https://habr.com/post/88722/
-* https://habr.com/post/88722/
-* https://habr.com/post/114455/
+* [Зачем нужны паттерны ООП?](https://habr.com/post/170597/)
+* [Паттерны проектирования в Ruby: Шаблонный метод](https://habr.com/post/188046/)
+* [Паттерн проектирования «Адаптер»](https://habr.com/post/85095/)
+* [Паттерн проектирования «Мост»](https://habr.com/post/85137/)
+* [Паттерн проектирования «Компоновщик»](https://habr.com/post/85166/)
+* [Паттерн проектирования «Декоратор»](https://habr.com/post/86255/)
+* [Паттерн проектирования «Фасад»](https://habr.com/post/87110/)
+* [Паттерн проектирования «Приспособленец»](https://habr.com/post/88393/)
+* [Паттерн проектирования «Заместитель»](https://habr.com/post/88722/)
+* [Паттерн проектирования «Команда»](https://habr.com/post/114455/)
 </details>
 
 ## Веб-программист Ruby on Rails
