@@ -224,7 +224,7 @@
 
 #### Курсы
 
-* https://ru.hexlet.io/courses/ruby
+* [Введение в Ruby](https://ru.hexlet.io/courses/ruby)
 
 #### Книги
 
