@@ -37,9 +37,12 @@
 * [Архитектура REST](https://habr.com/post/38730/)
 * [Почему REST?](https://code.tutsplus.com/ru/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/REST)
+</details>
 
 ### HTML
 
+<details><summary>Подробнее</summary>
+  
 #### Курсы
 
 * [Знакомство с HTML](https://codebra.ru/ru/lessons-html/dating/1/1)
