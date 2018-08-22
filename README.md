@@ -8,7 +8,7 @@
 
 ### HTTP
 
-<details><summary><h3>Подробнее</h3></summary>
+<details><summary>Подробнее</summary>
 
 #### Учебники
 
