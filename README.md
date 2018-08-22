@@ -273,7 +273,7 @@
 
 ### Книги
 
-* http://forcoder.ru/web-other/ruby-on-rails-dlya-nachinayuschih-izuchaem-razrabotku-veb-prilozheniy-na-osnove-rails-1561
+* [Ruby on Rails для начинающих. Изучаем разработку веб-приложений на основе Rails](http://forcoder.ru/web-other/ruby-on-rails-dlya-nachinayuschih-izuchaem-razrabotku-veb-prilozheniy-na-osnove-rails-1561)
 
 ### Стиль оформления
 
