@@ -267,7 +267,7 @@
 
 ### Курсы
 
-* [Онлайн курс по web разработке на фреймворке Ruby on Rails](http://www.easyrails.ru/)
+* [Онлайн курс по web-разработке на фреймворке Ruby on Rails](http://www.easyrails.ru/)
 
 ### Форумы
 
