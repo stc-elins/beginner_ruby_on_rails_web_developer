@@ -31,7 +31,7 @@
 ### REST
 
 <details><summary>Подробнее</summary>
-  
+
 #### Статьи
 
 * [Архитектура REST](https://habr.com/post/38730/)
@@ -42,7 +42,7 @@
 ### HTML
 
 <details><summary>Подробнее</summary>
-  
+
 #### Курсы
 
 * [Знакомство с HTML](https://codebra.ru/ru/lessons-html/dating/1/1)
@@ -65,7 +65,7 @@
 ### CSS
 
 <details><summary>Подробнее</summary>
-  
+
 #### Курсы
 
 * [Знакомство с CSS](https://codebra.ru/ru/lessons-css/familiarity/1/1)
@@ -119,7 +119,7 @@
 ### GIT
 
 <details><summary>Подробнее</summary>
-  
+
 #### Учебники
 
 * [Pro Git](https://git-scm.com/book/ru/v2)
@@ -137,7 +137,7 @@
 <details><summary>Подробнее</summary>
 
 ### Книги
-  
+
 * [SQL за 10 минут](http://forcoder.ru/web-other/sql-za-10-minut-1253)
 * [SQL. Библия пользователя](http://forcoder.ru/sql/sql-bibliya-polzovatelya-1364)
 * [SQL для простых смертных](http://forcoder.ru/sql/sql-dlya-prostyh-smertnyh-1481)
@@ -153,7 +153,7 @@
 #### Статьи
 
 * [SQL для начинающих](https://ruseller.com/lessons.php?id=557)
-  
+
 #### Видео
 
 * [Основы SQL](https://www.youtube.com/watch?v=P2Eaf9M4gOU)
@@ -307,7 +307,7 @@
 ### Reviwboard
 
 <details><summary>Подробнее</summary>
-  
+
 #### Статьи
 
 * [Как мы используем Review Board](http://www.deepshiftlabs.com/dev_blog/?p=930&lang=ru)
