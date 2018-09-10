@@ -37,7 +37,8 @@
 
 #### Учебники
 
-* [Самоучитель HTML4](http://htmlbook.ru/samhtml)
+* [Самоучитель HTML](http://htmlbook.ru/samhtml)
+* [HTML5](http://htmlbook.ru/html5)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
 #### Видео
