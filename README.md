@@ -307,16 +307,16 @@
 * [Автоматизированное управление проектами на основе Redmine](https://nilksa.ru/avtomatizirovannoe-upravlenie-proektami-na-osnove-redmine/)
 </details>
 
-### Rubymine
+## Rubymine
 
 <details><summary>Подробнее</summary>
 
-### Видео
+## Видео
 
 * [Хороший программист](https://www.youtube.com/watch?v=cbMqXMo-pNw&list=PL_GGd8SqUl3xLnVP91iJQt9ZiKCUo2s1q)
 * [Фишки](https://www.youtube.com/watch?v=KnyC1s-fnT4)
 
-### Практика
+## Практика
 
 * [30-дневная лицензия](https://www.jetbrains.com/ruby/download/#section=windows)
 </details>
