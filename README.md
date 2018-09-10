@@ -1,7 +1,3 @@
-# Стажер
-
-Мы набираем стажеров. У нас офигенная компания, в которой есть над чем поработать и есть чем поделиться со стажёрами. Публикуем ссылки на русскоязычные учебные материалы, которыми должен владеть стажер.
-
 ## Веб-программист
 
 Этими темами должен владеть любой веб-программист на любом языке программирования.
@@ -10,21 +6,13 @@
 
 <details><summary>Подробнее</summary>
 
-#### Учебники
-
-* [Руководство по HTTP](https://proselyte.net/tutorials/http-tutorial/introduction/)
-* [Протокол HTTP](http://www.sdteam.com/t3730)
-
 #### Бесплатные курсы
 
-* [ИНТУИТ](https://www.intuit.ru/studies/courses/485/341/lecture/8182)
+* [ИНТУИТ. Лекция 2](https://www.intuit.ru/studies/courses/485/341/lecture/8182)
 
 #### Статьи
 
 * [Простым языком об HTTP](https://habr.com/post/215117/)
-* [HTTP: протокол, который каждый разработчик должен знать](https://ruseller.com/lessons.php?id=1726&rub=28)
-* [Что нужно знать про HTTP протокол веб-разработчику. Правила HTTP протокола](https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html)
-* [Что такое протокол HTTP и как он работает](https://www.iguides.ru/main/other/chto_takoe_protokol_http_i_kak_on_rabotaet/)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/HTTP)
 </details>
 
@@ -35,7 +23,6 @@
 #### Статьи
 
 * [Архитектура REST](https://habr.com/post/38730/)
-* [Почему REST?](https://code.tutsplus.com/ru/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/REST)
 </details>
 
@@ -45,21 +32,18 @@
 
 #### Курсы
 
-* [Знакомство с HTML](https://codebra.ru/ru/lessons-html/dating/1/1)
 * [Основы HTML](https://htmlacademy.ru/courses/4/run/1)
 * [Бесплатный курс HTML для начинающих](https://webshake.ru/html-training-course)
-* [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
-* [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
-#### Лекции
+#### Учебники
 
+* [Самоучитель HTML4](http://htmlbook.ru/samhtml)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
 #### Видео
 
 * [HTML для начинающих](https://www.youtube.com/watch?v=8mK5aY5YOCc)
 * [HTML5 для начинающих](https://www.youtube.com/watch?v=gGYV7Gb7LTo)
-* [HTML верстка на примере бизнес сайта](https://www.youtube.com/watch?v=qh0AZRaogzU&list=PLyf8LgkO_8q84nQqB4K4zFSBUJz7JIgti)
 </details>
 
 ### CSS
@@ -68,13 +52,12 @@
 
 #### Курсы
 
-* [Знакомство с CSS](https://codebra.ru/ru/lessons-css/familiarity/1/1)
 * [Основы CSS](https://htmlacademy.ru/courses/41/run/1)
-* [Курс HTML/CSS](https://fructcode.com/ru/courses/html-and-css/)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
-#### Лекции
+#### Учебники
 
+* [Самоучитель CSS](http://htmlbook.ru/samcss)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
 #### Видео
@@ -84,6 +67,7 @@
 * [CSS3 для начинающих](https://www.youtube.com/watch?v=bQK9xQ1GIvU)
 * [Уроки по CSS/CSS3](https://www.youtube.com/watch?v=IsZDtOYUWvk)
 * [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug)
+* [Уроки Bootstrap верстки / #1 - Основы и установка](https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE)
 
 #### Статьи
 * [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
@@ -107,7 +91,6 @@
 * [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
 * [Знакомство с jQuery](https://codebra.ru/ru/lessons-additionally/jquery/1/1)
 * [Javascript и jQuery](https://fructcode.com/ru/courses/javascript-and-jquery/)
-* [Современный Javascript](https://fructcode.com/ru/courses/modern-javascript/)
 
 ####  Видео
 
@@ -123,10 +106,7 @@
 #### Учебники
 
 * [Pro Git](https://git-scm.com/book/ru/v2)
-
-#### Курсы
-
-* [Курс Linux/GIT](https://fructcode.com/ru/courses/linux-and-git/)
+* [Git How To](https://githowto.com/ru/setup)
 
 ### Видео
 
@@ -144,9 +124,8 @@
 * [Изучаем SQL](http://forcoder.ru/sql/izuchaem-sql-1519)
 
 ### Курсы
-
-* [Online-курс по основам SQL](https://shultais.education/courses/sql)
-* [Курсы основы SQL онлайн бесплатно](https://imprium.ru/courses/kursy-osnovy-sql-online-besplatno)
+* [Введение в реляционные базы данных](https://www.intuit.ru/studies/courses/74/74/info)
+* [Введение в модель данных SQL](https://www.intuit.ru/studies/courses/75/75/info)
 * [Основы SQL](http://www.intuit.ru/studies/courses/5/5/info)
 * [Введение в базы данных](https://stepik.org/course/551/)
 
@@ -169,11 +148,11 @@
 #### Статьи
 
 * [Рефакторинг](https://refactoring.guru/ru/refactoring)
+* [KISS (принцип)](https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF))
 * [KISS — принцип проектирования, содержащий все остальные принципы проектирования](https://habr.com/post/249639/)
 * [Анемичная модель предметной области — не анти-шаблон, а архитектура по принципам SOLID](https://habr.com/post/346016/)
 * [SOLID: принцип единственности ответственности](https://habr.com/post/328584/)
 * [Принципы SOLID в действии: от Slack до Twilio](https://habr.com/post/343966/)
-* [Почему я не преподаю SOLID и «принцип устранения зависимостей»](https://habr.com/company/skbkontur/blog/260781/)
 * [SOLID](https://habr.com/post/348286/)
 * [Простое объяснение принципов SOLID](https://habr.com/company/mailru/blog/412699/)
 * [Разбираемся с SOLID: Инверсия зависимостей](https://habr.com/post/313796/)
@@ -227,10 +206,6 @@
 * [Ruby от CryptoFun](https://www.youtube.com/watch?v=N-s5CGDzj2w&list=PLd-kTafWJCJPF4ByjsATGkB7ALWnA2m2L)
 * [Основы программирования на Ruby](https://www.youtube.com/watch?v=eJ_6O5sQkso&list=PL9XdPIVgBVVnCaktzjY3ArQ7W8rALv2sQ)
 * [Божественный Ruby](https://www.youtube.com/watch?v=mICGqoexnls&list=PL60p2JqdCLmJkpwCDivaizje06kh9VNXB)
-
-#### Курсы
-
-* [Введение в Ruby](https://ru.hexlet.io/courses/ruby)
 
 #### Книги
 
@@ -298,7 +273,6 @@
 
 * [Непрерывная интеграция](https://ru.wikipedia.org/wiki/Непрерывная_интеграция)
 * [Введение в Continuous Integration](https://habr.com/post/82724/)
-* [Continuous Integration для самых маленьки](https://habr.com/post/190412/)
 * [Начинающему тестировщику — Continuous Integration](https://test-engineer.ru/testing-tools/nachinayushemu-testirovshiku-continuous-integration.html)
 * [Какая разница между Continuous Delivery, Continuous Deployment и Continuous Integration](http://qaat.ru/kakaya-raznica-mezhdu-continuous-delivery-continuous-deployment-i-continuous-integration/)
 * [Разбираемся с Continuous Integration](https://ifmo.su/ci)
@@ -349,11 +323,3 @@
 
 * [30-дневная лицензия](https://www.jetbrains.com/ruby/download/#section=windows)
 </details>
-
-# Младший веб-разработчик
-
-Младший веб-разработчик отличается от стажера опытом и углубленными знаниями. Темы все те же самые, но подтвержденные опытом.
-
-# Вакансия
-
-Если материал усвоен, то откликайтесь на [вакансию](https://career.ru/vacancy/24897586) и приходите на собеседование!
