@@ -1,67 +1,67 @@
-## Веб-программист
+# Веб-программист
 
 Этими темами должен владеть любой веб-программист на любом языке программирования.
 
-### HTTP
+## HTTP
 
 <details><summary>Подробнее</summary>
 
-#### Бесплатные курсы
+### Учебники
 
 * [ИНТУИТ. Лекция 2](https://www.intuit.ru/studies/courses/485/341/lecture/8182)
 
-#### Статьи
+### Статьи
 
 * [Простым языком об HTTP](https://habr.com/post/215117/)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/HTTP)
 </details>
 
-### REST
+## REST
 
 <details><summary>Подробнее</summary>
 
-#### Статьи
+### Статьи
 
 * [Архитектура REST](https://habr.com/post/38730/)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/REST)
 </details>
 
-### HTML
+## HTML
 
 <details><summary>Подробнее</summary>
 
-#### Курсы
+### Курсы
 
 * [Основы HTML](https://htmlacademy.ru/courses/4/run/1)
 * [Бесплатный курс HTML для начинающих](https://webshake.ru/html-training-course)
 
-#### Учебники
+### Учебники
 
 * [Самоучитель HTML](http://htmlbook.ru/samhtml)
 * [HTML5](http://htmlbook.ru/html5)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
-#### Видео
+### Видео
 
 * [HTML для начинающих](https://www.youtube.com/watch?v=8mK5aY5YOCc)
 * [HTML5 для начинающих](https://www.youtube.com/watch?v=gGYV7Gb7LTo)
 </details>
 
-### CSS
+## CSS
 
 <details><summary>Подробнее</summary>
 
-#### Курсы
+### Курсы
 
 * [Основы CSS](https://htmlacademy.ru/courses/41/run/1)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
-#### Учебники
+### Учебники
 
 * [Самоучитель CSS](http://htmlbook.ru/samcss)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
 
-#### Видео
+### Видео
 
 * [Основы CSS](https://www.youtube.com/watch?v=NkmZl1Yy94Q)
 * [Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)
@@ -70,71 +70,71 @@
 * [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug)
 * [Уроки Bootstrap верстки / #1 - Основы и установка](https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE)
 
-#### Статьи
+### Статьи
 * [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
 </details>
 
-### JavaScript
+## JavaScript
 
 <details><summary>Подробнее</summary>
 
-### Учебники
+## Учебники
 
 * [Современный учебник Javascript](https://learn.javascript.ru/)
 
-### Лекции
+## Лекции
 
 * [Javascript и jQuery](http://codenamecrud.ru/javascript-and-jquery)
 
-#### Курсы
+### Курсы
 
 * [Знакомство с Javascript](https://codebra.ru/ru/lessons-javascript/singles/1/1)
 * [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
 * [Знакомство с jQuery](https://codebra.ru/ru/lessons-additionally/jquery/1/1)
 * [Javascript и jQuery](https://fructcode.com/ru/courses/javascript-and-jquery/)
 
-####  Видео
+###  Видео
 
 * [Основы Javascript](https://www.youtube.com/watch?v=n0sPFaLsNeI)
 * [JavaScript для начинающих](https://www.youtube.com/watch?v=xgDtBQ-NxtA)
 * [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8)
 </details>
 
-### GIT
+## GIT
 
 <details><summary>Подробнее</summary>
 
-#### Учебники
+### Учебники
 
 * [Pro Git](https://git-scm.com/book/ru/v2)
 * [Git How To](https://githowto.com/ru/setup)
 
-### Видео
+## Видео
 
 * [Git - для новичков](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
 </details>
 
-### SQL
+## SQL
 <details><summary>Подробнее</summary>
 
-### Книги
+## Книги
 
 * [SQL за 10 минут](http://forcoder.ru/web-other/sql-za-10-minut-1253)
 * [SQL. Библия пользователя](http://forcoder.ru/sql/sql-bibliya-polzovatelya-1364)
 * [SQL для простых смертных](http://forcoder.ru/sql/sql-dlya-prostyh-smertnyh-1481)
 * [Изучаем SQL](http://forcoder.ru/sql/izuchaem-sql-1519)
 
-### Курсы
+## Курсы
 * [Введение в реляционные базы данных](https://www.intuit.ru/studies/courses/74/74/info)
 * [Введение в модель данных SQL](https://www.intuit.ru/studies/courses/75/75/info)
 * [Основы SQL](http://www.intuit.ru/studies/courses/5/5/info)
 * [Введение в базы данных](https://stepik.org/course/551/)
 
-#### Статьи
+### Статьи
 
 * [SQL для начинающих](https://ruseller.com/lessons.php?id=557)
 
-#### Видео
+### Видео
 
 * [Основы SQL](https://www.youtube.com/watch?v=P2Eaf9M4gOU)
 * [SQL](https://www.youtube.com/watch?v=yOkj-PbCPQ8&list=PLDywto_IU4_4RU0sKfID6OY-np6uGmhlf)
@@ -142,11 +142,11 @@
 * [Видеокурс по работе с MySQL](https://proglib.io/p/mysql-queries/)
 </details>
 
-### Принципы программирования
+## Принципы программирования
 
 <details><summary>Подробнее</summary>
 
-#### Статьи
+### Статьи
 
 * [Рефакторинг](https://refactoring.guru/ru/refactoring)
 * [KISS (принцип)](https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF))
@@ -167,16 +167,16 @@
 * [Domain-Driven Design: тактическое проектирование. Часть 2](https://habr.com/post/316890/)
 </details>
 
-### Шаблоны проектирования
+## Шаблоны проектирования
 
 <details><summary>Подробнее</summary>
 
-#### Книги
+### Книги
 
 * [Шаблоны проектирования веб-приложений](http://avidreaders.ru/book/shablony-proektirovaniya-veb-prilozheniy.html)
 * [Элементарные шаблоны проектирования](http://padabum.com/d.php?id=37881)
 
-#### Статьи
+### Статьи
 
 * [Зачем нужны паттерны ООП?](https://habr.com/post/170597/)
 * [Паттерны проектирования в Ruby: Шаблонный метод](https://habr.com/post/188046/)
@@ -186,21 +186,21 @@
 * [Шаблоны проектирования](https://refactoring.guru/ru/design-patterns)
 </details>
 
-## Веб-программист Ruby on Rails
+# Веб-программист Ruby on Rails
 
 Дополнительно нужно знать Ruby и Ruby on Rails. Независимо от того, в какой команде будет работать веб-разработчик.
 
-### Ruby
+## Ruby
 
 <details><summary>Подробнее</summary>
 
-#### Учебники
+### Учебники
 
 * [Программирование на Ruby](http://codenamecrud.ru/ruby-programming)
 * [Ruby за 20 минут](https://www.ruby-lang.org/ru/documentation/quickstart/)
 * [Wiki-учебник](https://ru.wikibooks.org/wiki/Ruby)
 
-#### Видео
+### Видео
 
 * [Научись Ruby](https://www.youtube.com/watch?v=IWZ_71EKbng&feature=youtu.be&list=PL6eOcSrXYcBcCoBn8wahHcBS7AGcZD429)
 * [Канал rubyschool.us](https://www.youtube.com/channel/UC-uWAm_l55kVc0UwpZfv3EQ)
@@ -208,27 +208,27 @@
 * [Основы программирования на Ruby](https://www.youtube.com/watch?v=eJ_6O5sQkso&list=PL9XdPIVgBVVnCaktzjY3ArQ7W8rALv2sQ)
 * [Божественный Ruby](https://www.youtube.com/watch?v=mICGqoexnls&list=PL60p2JqdCLmJkpwCDivaizje06kh9VNXB)
 
-#### Книги
+### Книги
 
 * [Узнаем Ruby](http://forcoder.ru/ruby/izuchaem-ruby-1533)
 * [Путь Ruby](http://forcoder.ru/ruby/put-ruby-1508)
 
-#### Стиль оформления кода
+### Стиль оформления кода
 
 * [Руби: руководство по стилю оформления](https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md)
 </details>
 
-### Rails
+## Rails
 
 <details><summary>Подробнее</summary>
 
-#### Учебники
+### Учебники
 
 * [Ruby on Rails](http://codenamecrud.ru/ruby-on-rails)
 * [Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning)
 * [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
 
-#### Видео
+### Видео
 
 * [Канал rubyschool.us](https://www.youtube.com/channel/UC-uWAm_l55kVc0UwpZfv3EQ)
 * [Научись Rails](https://www.youtube.com/watch?v=kv2IJ1NeE00&index=51&list=PL6eOcSrXYcBcCoBn8wahHcBS7AGcZD429)
@@ -241,36 +241,36 @@
 * [Научись Rails](https://www.youtube.com/watch?list=PLM-s_ZNvf20UjFJBsLqUt0vszhrDkrPl-&v=kv2IJ1NeE00)
 * [Видеокурсы для Ruby разработчиков](https://coursehunters.net/ruby)
 
-### Курсы
+## Курсы
 
 * [Онлайн курс по web-разработке на фреймворке Ruby on Rails](http://www.easyrails.ru/)
 
-### Форумы
+## Форумы
 
 * [Форум о Ruby on Rails](http://onrails.club/)
 
-### Статьи
+## Статьи
 
 * [Лучший способ изучить Rails](https://habr.com/post/138101/)
 
-### Книги
+## Книги
 
 * [Ruby on Rails для начинающих. Изучаем разработку веб-приложений на основе Rails](http://forcoder.ru/web-other/ruby-on-rails-dlya-nachinayuschih-izuchaem-razrabotku-veb-prilozheniy-na-osnove-rails-1561)
 
-### Стиль оформления
+## Стиль оформления
 
 * [Rails: руководство по стилю оформления](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
 </details>
 
-## Веб-программист Ruby on Rails нашей команды
+# Веб-программист Ruby on Rails нашей команды
 
 Дополнительно нужно знать понятия и системы, которые используются нашей команде.
 
-### Continiues Integration
+## Continiues Integration
 
 <details><summary>Подробнее</summary>
 
-#### Статьи
+### Статьи
 
 * [Непрерывная интеграция](https://ru.wikipedia.org/wiki/Непрерывная_интеграция)
 * [Введение в Continuous Integration](https://habr.com/post/82724/)
@@ -279,36 +279,32 @@
 * [Разбираемся с Continuous Integration](https://ifmo.su/ci)
 </details>
 
-### Reviwboard
+## Reviwboard
 
 <details><summary>Подробнее</summary>
 
-#### Статьи
+### Статьи
 
 * [Как мы используем Review Board](http://www.deepshiftlabs.com/dev_blog/?p=930&lang=ru)
 </details>
 
-### Redmine
+## Redmine
 
 <details><summary>Подробнее</summary>
 
-#### Видео
+### Видео
 
 * [Пример работы с Redmine](https://www.youtube.com/watch?v=k9o_VmsEGgo&list=PLJQM4N7eJEoHOuyivQAamS-F4JSFZQUyj)
 
-#### Практика
+### Практика
 
 * [Скачать Bitnami VM](https://bitnami.com/stack/redmine/virtual-machine)
 * [Потыкать](http://okiseleva.blogspot.com/2017/10/redmine.html)
 
-#### Статьи
+### Статьи
 
 * [Redmine](https://ru.wikipedia.org/wiki/Redmine)
 * [Автоматизированное управление проектами на основе Redmine](https://nilksa.ru/avtomatizirovannoe-upravlenie-proektami-na-osnove-redmine/)
-
-#### Книги
-
-* [Руководство пользователя системы Redmine](http://esau.tusur.ru/attachments/972/book_Redmine.pdf)
 </details>
 
 ### Rubymine
