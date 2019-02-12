@@ -60,6 +60,9 @@
 
 * [Самоучитель CSS](http://htmlbook.ru/samcss)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
+* [Scalable and Modular Architecture for CSS](https://smacss.com/book/)
+* [БЭМ: Быстрый старт](https://ru.bem.info/methodology/quick-start/)
+* [БЭМ: Какие проблемы решает](https://ru.bem.info/methodology/solved-problems/)
 
 ### Видео
 
@@ -69,6 +72,7 @@
 * [Уроки по CSS/CSS3](https://www.youtube.com/watch?v=IsZDtOYUWvk)
 * [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug)
 * [Уроки Bootstrap верстки / #1 - Основы и установка](https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE)
+* [Курс по Bootstrap: 10 бесплатных уроков по основам](https://scrimba.com/g/gbootstrap4)
 
 ### Статьи
 * [Эволюция CSS](https://habr.com/company/mailru/blog/319956/)
@@ -91,7 +95,6 @@
 * [Знакомство с Javascript](https://codebra.ru/ru/lessons-javascript/singles/1/1)
 * [Основы JavaScript](https://htmlacademy.ru/courses/207/run/1)
 * [Знакомство с jQuery](https://codebra.ru/ru/lessons-additionally/jquery/1/1)
-* [Javascript и jQuery](https://fructcode.com/ru/courses/javascript-and-jquery/)
 
 ###  Видео
 
@@ -108,6 +111,7 @@
 
 * [Pro Git](https://git-scm.com/book/ru/v2)
 * [Git How To](https://githowto.com/ru/setup)
+* [try.github.io](http://try.github.io/)
 
 ## Видео
 
