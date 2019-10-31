@@ -11,9 +11,9 @@
 * [ИНТУИТ. Лекция 2](https://www.intuit.ru/studies/courses/485/341/lecture/8182)
 
 ### Статьи
-
 * [Простым языком об HTTP](https://habr.com/post/215117/)
 * [Статья в Wikipedia](https://ru.wikipedia.org/wiki/HTTP)
+* [Практика настройки сетевого оборудования](https://www.gns3.com/)
 </details>
 
 ## REST
@@ -60,7 +60,6 @@
 
 * [Самоучитель CSS](http://htmlbook.ru/samcss)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
-* [Scalable and Modular Architecture for CSS](https://smacss.com/book/)
 * [БЭМ: Быстрый старт](https://ru.bem.info/methodology/quick-start/)
 * [БЭМ: Какие проблемы решает](https://ru.bem.info/methodology/solved-problems/)
 
@@ -169,6 +168,7 @@
 * [Применяем принцип KISS к самим принципам проектирования](https://habr.com/post/347242/)
 * [Domain-Driven Design: стратегическое проектирование. Часть 1](https://habr.com/post/316438/)
 * [Domain-Driven Design: тактическое проектирование. Часть 2](https://habr.com/post/316890/)
+* [Joel on software. Блог корпоративного разработчика](https://www.joelonsoftware.com/)
 </details>
 
 ## Шаблоны проектирования
