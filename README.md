@@ -60,6 +60,7 @@
 
 * [Самоучитель CSS](http://htmlbook.ru/samcss)
 * [HTML5 и CSS3](http://codenamecrud.ru/html5-and-css3)
+* [Scalable and Modular Architecture for CSS](http://smacss.com/book/)
 * [БЭМ: Быстрый старт](https://ru.bem.info/methodology/quick-start/)
 * [БЭМ: Какие проблемы решает](https://ru.bem.info/methodology/solved-problems/)
 
