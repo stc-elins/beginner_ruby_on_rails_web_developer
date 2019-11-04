@@ -229,7 +229,6 @@
 ### Учебники
 
 * [Ruby on Rails](http://codenamecrud.ru/ruby-on-rails)
-* [Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning)
 * [Rails для начинающих](http://rusrails.ru/getting-started-with-rails)
 
 ### Видео
@@ -244,14 +243,6 @@
 * [Хороший программист](https://www.youtube.com/watch?v=L5Va6hF76uE&list=PL87kYOx0cUgjhIzbysKiQlh3-lgZ0Lxno)
 * [Научись Rails](https://www.youtube.com/watch?list=PLM-s_ZNvf20UjFJBsLqUt0vszhrDkrPl-&v=kv2IJ1NeE00)
 * [Видеокурсы для Ruby разработчиков](https://coursehunters.net/ruby)
-
-## Курсы
-
-* [Онлайн курс по web-разработке на фреймворке Ruby on Rails](http://www.easyrails.ru/)
-
-## Форумы
-
-* [Форум о Ruby on Rails](http://onrails.club/)
 
 ## Статьи
 
