@@ -63,6 +63,7 @@
 * [Scalable and Modular Architecture for CSS](https://smacss.com/book/)
 * [БЭМ: Быстрый старт](https://ru.bem.info/methodology/quick-start/)
 * [БЭМ: Какие проблемы решает](https://ru.bem.info/methodology/solved-problems/)
+* [Справочник HTML и CSS](https://webref.ru/)
 
 ### Видео
 
