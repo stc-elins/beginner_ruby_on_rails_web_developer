@@ -53,7 +53,7 @@
 
 ### Курсы
 
-* [Основы CSS](https://htmlacademy.ru/courses/41/run/1)
+* [Основы CSS](https://htmlacademy.ru/courses/307)
 * [Бесплатный курс «HTML и CSS с нуля»](https://netology.ru/programs/html-css-base#/order)
 
 ### Учебники
