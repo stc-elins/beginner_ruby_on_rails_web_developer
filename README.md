@@ -118,6 +118,10 @@
 ## Видео
 
 * [Git - для новичков](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
+
+### Игра
+
+* [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 </details>
 
 ## SQL
