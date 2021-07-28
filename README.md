@@ -84,11 +84,11 @@
 
 <details><summary>Подробнее</summary>
 
-## Учебники
+### Учебники
 
 * [Современный учебник Javascript](https://learn.javascript.ru/)
 
-## Лекции
+### Лекции
 
 * [Javascript и jQuery](http://codenamecrud.ru/javascript-and-jquery)
 
@@ -115,22 +115,27 @@
 * [Git How To](https://githowto.com/ru/setup)
 * [try.github.io](http://try.github.io/)
 
-## Видео
+### Видео
 
 * [Git - для новичков](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
+  
+### Игра
+
+* [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 </details>
 
 ## SQL
 <details><summary>Подробнее</summary>
 
-## Книги
+### Книги
 
 * [SQL за 10 минут](http://forcoder.ru/web-other/sql-za-10-minut-1253)
 * [SQL. Библия пользователя](http://forcoder.ru/sql/sql-bibliya-polzovatelya-1364)
 * [SQL для простых смертных](http://forcoder.ru/sql/sql-dlya-prostyh-smertnyh-1481)
 * [Изучаем SQL](http://forcoder.ru/sql/izuchaem-sql-1519)
 
-## Курсы
+### Курсы
+  
 * [Введение в реляционные базы данных](https://www.intuit.ru/studies/courses/74/74/info)
 * [Введение в модель данных SQL](https://www.intuit.ru/studies/courses/75/75/info)
 * [Основы SQL](http://www.intuit.ru/studies/courses/5/5/info)
@@ -246,15 +251,15 @@
 * [Научись Rails](https://www.youtube.com/watch?list=PLM-s_ZNvf20UjFJBsLqUt0vszhrDkrPl-&v=kv2IJ1NeE00)
 * [Видеокурсы для Ruby разработчиков](https://coursehunters.net/ruby)
 
-## Статьи
+### Статьи
 
 * [Лучший способ изучить Rails](https://habr.com/post/138101/)
 
-## Книги
+### Книги
 
 * [Ruby on Rails для начинающих. Изучаем разработку веб-приложений на основе Rails](http://forcoder.ru/web-other/ruby-on-rails-dlya-nachinayuschih-izuchaem-razrabotku-veb-prilozheniy-na-osnove-rails-1561)
 
-## Стиль оформления
+### Стиль оформления
 
 * [Rails: руководство по стилю оформления](https://github.com/arbox/rails-style-guide/blob/master/README-ruRU.md)
 </details>
@@ -308,12 +313,12 @@
 
 <details><summary>Подробнее</summary>
 
-## Видео
+### Видео
 
 * [Хороший программист](https://www.youtube.com/watch?v=cbMqXMo-pNw&list=PL_GGd8SqUl3xLnVP91iJQt9ZiKCUo2s1q)
 * [Фишки](https://www.youtube.com/watch?v=KnyC1s-fnT4)
 
-## Практика
+### Практика
 
 * [30-дневная лицензия](https://www.jetbrains.com/ruby/download/#section=windows)
 </details>
